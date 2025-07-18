@@ -1,6 +1,6 @@
 # Weather App
 
-- `npm start` to run the app
+- `npm start` to run the app (port 3000)
 - Weather app that fetches current weather data based on coordinates
 - Displays time, coordinates, timezone, temperature, and other weather details
 - Uses the **Visual Crossing Weather API** to fetch weather data
